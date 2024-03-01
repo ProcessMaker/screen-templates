@@ -1,0 +1,20 @@
+{
+    "Accounting": {
+        "Business Expense": {
+            "screen": ".\/Accounting\/Business Expense\/screen_export.json",
+            "template_details": {
+                "name": "Test Screen Template",
+                "description": "Approve and Reject invoice using OCR",
+                "screen_type": "FORM",
+                "version": "1.0.0"
+            },
+            "assets": {
+                "thumbnail": ".\/Accounting\/Business Expense\/assets\/thumbnail.jpeg",
+                "preview-thumbs": [
+                    ".\/Accounting\/Business Expense\/assets\/preview-thumbs\/preview2.jpeg",
+                    ".\/Accounting\/Business Expense\/assets\/preview-thumbs\/preview1.jpeg"
+                ]
+            }
+        }
+    }
+}
