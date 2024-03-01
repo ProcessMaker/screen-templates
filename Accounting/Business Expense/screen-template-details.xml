@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<screen-template
+  name="Test Screen Template"
+  description="Approve and Reject invoice using OCR"
+  screen_type="FORM"
+  version="1.0.0"
+></screen-template>
