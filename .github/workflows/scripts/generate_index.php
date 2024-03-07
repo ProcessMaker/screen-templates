@@ -86,6 +86,7 @@ function initializeTemplateStructure()
             "description" => "",
             "screen_type" => "",
             'version' => "",
+            'unique_template_id'=> "",
         ],
         "assets" => [
             "thumbnail" => "",
@@ -180,12 +181,14 @@ function loadXmlAttributes($contentInfo, &$categories, $currentCategory, $templa
     $description = (string) $xml->attributes()['description'];
     $screenType = (string) $xml->attributes()['screen_type'];
     $version = (string) $xml->attributes()['version'];
+    $uniqueTemplateId = (string) $xml->attributes()['unique_template_id'];
     
 
     $categories[$currentCategory][$templateName]['template_details']['name'] = $name;
     $categories[$currentCategory][$templateName]['template_details']['description'] = $description;
     $categories[$currentCategory][$templateName]['template_details']['screen_type'] = $screenType;
     $categories[$currentCategory][$templateName]['template_details']['version'] = $version;
+    $categories[$currentCategory][$templateName]['template_details']['unique_template_id'] = $uniqueTemplateId;
 }
 
 // You also need to define the compute_hash and update_readme functions if they are not already defined.
