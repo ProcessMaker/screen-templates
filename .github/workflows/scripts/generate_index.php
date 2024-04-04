@@ -80,7 +80,8 @@ function main()
 function initializeTemplateStructure()
 {
     return [
-        "screen" => "",
+        // "screen" => "",
+        "screen_template" => "",
         "template_details" => [
             "name" => "",
             "description" => "",
@@ -164,10 +165,13 @@ function mapContentToTemplateStructure($contentInfo, &$categories, $currentCateg
     $fileName = substr($fileName, 0, strrpos($fileName, "."));
 
     switch ($fileName) {
-        case "screen_export":
-            $categories[$currentCategory][$templateName]['screen'] = $contentInfo->getPathname();
+        case "screen_template_export":
+            $categories[$currentCategory][$templateName]['screen_template'] = $contentInfo->getPathname();
             break;
-        case "screen-template-details":
+        // case "screen_export":
+        //     $categories[$currentCategory][$templateName]['screen'] = $contentInfo->getPathname();
+        //     break;
+        case "screen_template_details":
             loadXmlAttributes($contentInfo, $categories, $currentCategory, $templateName);
             break;
     }
