@@ -80,7 +80,6 @@ function main()
 function initializeTemplateStructure()
 {
     return [
-        // "screen" => "",
         "screen_template" => "",
         "template_details" => [
             "name" => "",
@@ -168,9 +167,6 @@ function mapContentToTemplateStructure($contentInfo, &$categories, $currentCateg
         case "screen_template_export":
             $categories[$currentCategory][$templateName]['screen_template'] = $contentInfo->getPathname();
             break;
-        // case "screen_export":
-        //     $categories[$currentCategory][$templateName]['screen'] = $contentInfo->getPathname();
-        //     break;
         case "screen_template_details":
             loadXmlAttributes($contentInfo, $categories, $currentCategory, $templateName);
             break;
