@@ -12,8 +12,8 @@
             "assets": {
                 "thumbnail": ".\/Accounting\/business_expense\/assets\/thumbnail.jpeg",
                 "preview-thumbs": [
-                    ".\/Accounting\/business_expense\/assets\/preview-thumbs\/preview1.jpeg",
-                    ".\/Accounting\/business_expense\/assets\/preview-thumbs\/preview2.jpeg"
+                    ".\/Accounting\/business_expense\/assets\/preview-thumbs\/preview2.jpeg",
+                    ".\/Accounting\/business_expense\/assets\/preview-thumbs\/preview1.jpeg"
                 ]
             }
         }
