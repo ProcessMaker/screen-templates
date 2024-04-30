@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<screen-template
+  name="Approval Template"
+  description="Default approval screen template"
+  version="1.0.0"
+  unique_template_id="approval_template"
+></screen-template>
