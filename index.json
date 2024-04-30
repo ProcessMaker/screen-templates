@@ -17,6 +17,24 @@
                     ".\/Default Templates\/paper_template\/assets\/preview-thumbs\/preview1.jpeg"
                 ]
             }
+        },
+        "approval_template": {
+            "screen_template": ".\/Default Templates\/approval_template\/screen_template_export.json",
+            "template_details": {
+                "name": "Approval Template",
+                "description": "Default approval screen template",
+                "screen_type": "",
+                "version": "1.0.0",
+                "unique_template_id": "approval_template"
+            },
+            "assets": {
+                "thumbnail": ".\/Default Templates\/approval_template\/assets\/thumbnail.jpeg",
+                "preview-thumbs": [
+                    ".\/Default Templates\/approval_template\/assets\/preview-thumbs\/preview2.jpeg",
+                    ".\/Default Templates\/approval_template\/assets\/preview-thumbs\/preview3.jpeg",
+                    ".\/Default Templates\/approval_template\/assets\/preview-thumbs\/preview1.jpeg"
+                ]
+            }
         }
     }
 }
