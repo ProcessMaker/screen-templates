@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<screen-template
+  name="Paper Template"
+  description="Default paper screen template"
+  version="1.0.0"
+  unique_template_id="paper_template"
+></screen-template>
