@@ -7,7 +7,7 @@
                 "description": "Default paper screen template",
                 "screen_type": "FORM",
                 "version": "1.0.0",
-                "unique_template_id": ""
+                "unique_template_id": "paper_template"
             },
             "assets": {
                 "thumbnail": ".\/Default Templates\/paper_template\/assets\/thumbnail.jpeg",
