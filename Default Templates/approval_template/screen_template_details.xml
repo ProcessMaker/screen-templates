@@ -4,5 +4,5 @@
   description="Default approval screen template"
   screen_type="FORM"
   version="1.0.0"
-  unique-template-id="approval_template"
+  unique_template_id="approval_template"
 ></screen-template>
