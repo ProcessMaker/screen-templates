@@ -1,7 +1,7 @@
 {
-    "Default Templates": {
+    "default-templates": {
         "paper_template": {
-            "screen_template": ".\/Default Templates\/paper_template\/screen_template_export.json",
+            "screen_template": ".\/default-templates\/paper_template\/screen_template_export.json",
             "template_details": {
                 "name": "Paper Template",
                 "description": "Default paper screen template",
@@ -10,16 +10,16 @@
                 "unique_template_id": "paper_template"
             },
             "assets": {
-                "thumbnail": ".\/Default Templates\/paper_template\/assets\/thumbnail.jpeg",
+                "thumbnail": ".\/default-templates\/paper_template\/assets\/thumbnail.jpeg",
                 "preview-thumbs": [
-                    ".\/Default Templates\/paper_template\/assets\/preview-thumbs\/preview2.jpeg",
-                    ".\/Default Templates\/paper_template\/assets\/preview-thumbs\/preview3.jpeg",
-                    ".\/Default Templates\/paper_template\/assets\/preview-thumbs\/preview1.jpeg"
+                    ".\/default-templates\/paper_template\/assets\/preview-thumbs\/preview2.jpeg",
+                    ".\/default-templates\/paper_template\/assets\/preview-thumbs\/preview3.jpeg",
+                    ".\/default-templates\/paper_template\/assets\/preview-thumbs\/preview1.jpeg"
                 ]
             }
         },
         "approval_template": {
-            "screen_template": ".\/Default Templates\/approval_template\/screen_template_export.json",
+            "screen_template": ".\/default-templates\/approval_template\/screen_template_export.json",
             "template_details": {
                 "name": "Approval Template",
                 "description": "Default approval screen template",
@@ -28,11 +28,11 @@
                 "unique_template_id": "approval_template"
             },
             "assets": {
-                "thumbnail": ".\/Default Templates\/approval_template\/assets\/thumbnail.jpeg",
+                "thumbnail": ".\/default-templates\/approval_template\/assets\/thumbnail.jpeg",
                 "preview-thumbs": [
-                    ".\/Default Templates\/approval_template\/assets\/preview-thumbs\/preview2.jpeg",
-                    ".\/Default Templates\/approval_template\/assets\/preview-thumbs\/preview3.jpeg",
-                    ".\/Default Templates\/approval_template\/assets\/preview-thumbs\/preview1.jpeg"
+                    ".\/default-templates\/approval_template\/assets\/preview-thumbs\/preview2.jpeg",
+                    ".\/default-templates\/approval_template\/assets\/preview-thumbs\/preview3.jpeg",
+                    ".\/default-templates\/approval_template\/assets\/preview-thumbs\/preview1.jpeg"
                 ]
             }
         }
