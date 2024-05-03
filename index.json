@@ -5,9 +5,9 @@
             "template_details": {
                 "name": "Paper Template",
                 "description": "Default paper screen template",
-                "screen_type": "",
+                "screen_type": "FORM",
                 "version": "1.0.0",
-                "unique_template_id": "paper_template"
+                "unique_template_id": ""
             },
             "assets": {
                 "thumbnail": ".\/Default Templates\/paper_template\/assets\/thumbnail.jpeg",
