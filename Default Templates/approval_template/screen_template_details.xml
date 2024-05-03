@@ -2,6 +2,7 @@
 <screen-template
   name="Approval Template"
   description="Default approval screen template"
+  screen_type="FORM"
   version="1.0.0"
-  unique_template_id="approval_template"
+  unique-template-id="approval_template"
 ></screen-template>
