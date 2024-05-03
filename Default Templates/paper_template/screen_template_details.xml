@@ -4,5 +4,5 @@
   description="Default paper screen template"
   screen_type="FORM"
   version="1.0.0"
-  unique-template-id="paper_template"
+  unique_template_id="paper_template"
 ></screen-template>
