@@ -23,9 +23,9 @@
             "template_details": {
                 "name": "Approval Template",
                 "description": "Default approval screen template",
-                "screen_type": "",
+                "screen_type": "FORM",
                 "version": "1.0.0",
-                "unique_template_id": "approval_template"
+                "unique_template_id": ""
             },
             "assets": {
                 "thumbnail": ".\/Default Templates\/approval_template\/assets\/thumbnail.jpeg",
