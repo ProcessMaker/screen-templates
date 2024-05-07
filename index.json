@@ -1,5 +1,21 @@
 {
     "default-templates": {
+        "postcard_template": {
+            "screen_template": ".\/default-templates\/postcard_template\/screen_template_export.json",
+            "template_details": {
+                "name": "Postcard Template",
+                "description": "Default postcard screen template",
+                "screen_type": "FORM",
+                "version": "1.0.0",
+                "unique_template_id": "postcard_template"
+            },
+            "assets": {
+                "thumbnail": ".\/default-templates\/postcard_template\/assets\/thumbnail.jpeg",
+                "preview-thumbs": [
+                    ".\/default-templates\/postcard_template\/assets\/preview-thumbs\/preview1.jpg"
+                ]
+            }
+        },
         "paper_template": {
             "screen_template": ".\/default-templates\/paper_template\/screen_template_export.json",
             "template_details": {
@@ -12,9 +28,7 @@
             "assets": {
                 "thumbnail": ".\/default-templates\/paper_template\/assets\/thumbnail.jpeg",
                 "preview-thumbs": [
-                    ".\/default-templates\/paper_template\/assets\/preview-thumbs\/preview2.jpeg",
-                    ".\/default-templates\/paper_template\/assets\/preview-thumbs\/preview3.jpeg",
-                    ".\/default-templates\/paper_template\/assets\/preview-thumbs\/preview1.jpeg"
+                    ".\/default-templates\/paper_template\/assets\/preview-thumbs\/preview1.jpg"
                 ]
             }
         },
@@ -30,9 +44,7 @@
             "assets": {
                 "thumbnail": ".\/default-templates\/approval_template\/assets\/thumbnail.jpeg",
                 "preview-thumbs": [
-                    ".\/default-templates\/approval_template\/assets\/preview-thumbs\/preview2.jpeg",
-                    ".\/default-templates\/approval_template\/assets\/preview-thumbs\/preview3.jpeg",
-                    ".\/default-templates\/approval_template\/assets\/preview-thumbs\/preview1.jpeg"
+                    ".\/default-templates\/approval_template\/assets\/preview-thumbs\/preview1.jpg"
                 ]
             }
         }
