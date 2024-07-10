@@ -1,18 +1,18 @@
 {
     "default-templates": {
-        "postcard_template": {
-            "screen_template": ".\/default-templates\/postcard_template\/screen_template_export.json",
+        "approval_template": {
+            "screen_template": ".\/default-templates\/approval_template\/screen_template_export.json",
             "template_details": {
-                "name": "Postcard Template",
-                "description": "Default postcard screen template",
+                "name": "Approval Template",
+                "description": "Default approval screen template",
                 "screen_type": "FORM",
                 "version": "1.0.0",
-                "unique_template_id": "postcard_template"
+                "unique_template_id": "approval_template"
             },
             "assets": {
-                "thumbnail": ".\/default-templates\/postcard_template\/assets\/thumbnail.jpeg",
+                "thumbnail": ".\/default-templates\/approval_template\/assets\/thumbnail.jpeg",
                 "preview-thumbs": [
-                    ".\/default-templates\/postcard_template\/assets\/preview-thumbs\/preview1.jpg"
+                    ".\/default-templates\/approval_template\/assets\/preview-thumbs\/preview1.jpg"
                 ]
             }
         },
@@ -32,19 +32,19 @@
                 ]
             }
         },
-        "approval_template": {
-            "screen_template": ".\/default-templates\/approval_template\/screen_template_export.json",
+        "postcard_template": {
+            "screen_template": ".\/default-templates\/postcard_template\/screen_template_export.json",
             "template_details": {
-                "name": "Approval Template",
-                "description": "Default approval screen template",
+                "name": "Postcard Template",
+                "description": "Default postcard screen template",
                 "screen_type": "FORM",
                 "version": "1.0.0",
-                "unique_template_id": "approval_template"
+                "unique_template_id": "postcard_template"
             },
             "assets": {
-                "thumbnail": ".\/default-templates\/approval_template\/assets\/thumbnail.jpeg",
+                "thumbnail": ".\/default-templates\/postcard_template\/assets\/thumbnail.jpeg",
                 "preview-thumbs": [
-                    ".\/default-templates\/approval_template\/assets\/preview-thumbs\/preview1.jpg"
+                    ".\/default-templates\/postcard_template\/assets\/preview-thumbs\/preview1.jpg"
                 ]
             }
         }
