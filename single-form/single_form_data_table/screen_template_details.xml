@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<screen-template
+  name="Single Form - Data Table"
+  description="Default Data Table Form"
+  screen_type="FORM"
+  version="1.0.0"
+  unique_template_id="single_form_data_table"
+></screen-template>

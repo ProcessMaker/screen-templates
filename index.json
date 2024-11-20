@@ -1,0 +1,187 @@
+{
+    "single-form": {
+        "single_form_one_step_process": {
+            "screen_template": ".\/single-form\/single_form_one_step_process\/screen_template_export.json",
+            "template_details": {
+                "name": "Single Form - One Step Process",
+                "description": "Default One Step Process Form",
+                "screen_type": "FORM",
+                "version": "1.0.0",
+                "unique_template_id": "single_form_one_step_process"
+            },
+            "assets": {
+                "thumbnail": ".\/single-form\/single_form_one_step_process\/assets\/thumbnail.jpeg",
+                "preview-thumbs": [
+                    ".\/single-form\/single_form_one_step_process\/assets\/preview-thumbs\/preview2.png",
+                    ".\/single-form\/single_form_one_step_process\/assets\/preview-thumbs\/preview1.png"
+                ]
+            }
+        },
+        "single_form_multi_step_process": {
+            "screen_template": ".\/single-form\/single_form_multi_step_process\/screen_template_export.json",
+            "template_details": {
+                "name": "Single Form - Multi-Step Process",
+                "description": "Default Multi-Step Process Form",
+                "screen_type": "FORM",
+                "version": "1.0.0",
+                "unique_template_id": "single_form_multi_step_process"
+            },
+            "assets": {
+                "thumbnail": ".\/single-form\/single_form_multi_step_process\/assets\/thumbnail.jpeg",
+                "preview-thumbs": [
+                    ".\/single-form\/single_form_multi_step_process\/assets\/preview-thumbs\/preview2.png",
+                    ".\/single-form\/single_form_multi_step_process\/assets\/preview-thumbs\/preview1.png"
+                ]
+            }
+        },
+        "single_form_data_table": {
+            "screen_template": ".\/single-form\/single_form_data_table\/screen_template_export.json",
+            "template_details": {
+                "name": "Single Form - Data Table",
+                "description": "Default Data Table Form",
+                "screen_type": "FORM",
+                "version": "1.0.0",
+                "unique_template_id": "single_form_data_table"
+            },
+            "assets": {
+                "thumbnail": ".\/single-form\/single_form_data_table\/assets\/thumbnail.jpeg",
+                "preview-thumbs": [
+                    ".\/single-form\/single_form_data_table\/assets\/preview-thumbs\/preview2.png",
+                    ".\/single-form\/single_form_data_table\/assets\/preview-thumbs\/preview1.png"
+                ]
+            }
+        },
+        "single_form_photo_capture": {
+            "screen_template": ".\/single-form\/single_form_photo_capture\/screen_template_export.json",
+            "template_details": {
+                "name": "Single Form - Photo Capture",
+                "description": "Default Photo Capture Form",
+                "screen_type": "FORM",
+                "version": "1.0.0",
+                "unique_template_id": "single_form_photo_capture"
+            },
+            "assets": {
+                "thumbnail": ".\/single-form\/single_form_photo_capture\/assets\/thumbnail.jpeg",
+                "preview-thumbs": [
+                    ".\/single-form\/single_form_photo_capture\/assets\/preview-thumbs\/preview2.png",
+                    ".\/single-form\/single_form_photo_capture\/assets\/preview-thumbs\/preview1.png"
+                ]
+            }
+        },
+        "single_form_dual_data_panels": {
+            "screen_template": ".\/single-form\/single_form_dual_data_panels\/screen_template_export.json",
+            "template_details": {
+                "name": "Single Form - Dual Data Panels",
+                "description": "Default Dual Data Panels Form",
+                "screen_type": "FORM",
+                "version": "1.0.0",
+                "unique_template_id": "single_form_dual_data_panels"
+            },
+            "assets": {
+                "thumbnail": ".\/single-form\/single_form_dual_data_panels\/assets\/thumbnail.jpeg",
+                "preview-thumbs": [
+                    ".\/single-form\/single_form_dual_data_panels\/assets\/preview-thumbs\/preview2.png",
+                    ".\/single-form\/single_form_dual_data_panels\/assets\/preview-thumbs\/preview1.png"
+                ]
+            }
+        }
+    },
+    "default-templates": {
+        "welcome_page_template": {
+            "screen_template": ".\/default-templates\/welcome_page_template\/screen_template_export.json",
+            "template_details": {
+                "name": "Welcome Page",
+                "description": "Default welcome page template",
+                "screen_type": "FORM",
+                "version": "1.0.0",
+                "unique_template_id": "welcome_page_template"
+            },
+            "assets": {
+                "thumbnail": ".\/default-templates\/welcome_page_template\/assets\/thumbnail.jpeg",
+                "preview-thumbs": [
+                    ".\/default-templates\/welcome_page_template\/assets\/preview-thumbs\/preview1.png"
+                ]
+            }
+        },
+        "email_screen_template": {
+            "screen_template": ".\/default-templates\/email_screen_template\/screen_template_export.json",
+            "template_details": {
+                "name": "Email Screen",
+                "description": "Default email screen template",
+                "screen_type": "FORM",
+                "version": "1.0.0",
+                "unique_template_id": "email_screen_template"
+            },
+            "assets": {
+                "thumbnail": ".\/default-templates\/email_screen_template\/assets\/thumbnail.jpeg",
+                "preview-thumbs": [
+                    ".\/default-templates\/email_screen_template\/assets\/preview-thumbs\/preview1.png"
+                ]
+            }
+        },
+        "postcard_template": {
+            "screen_template": ".\/default-templates\/postcard_template\/screen_template_export.json",
+            "template_details": {
+                "name": "Postcard Template",
+                "description": "Default postcard screen template",
+                "screen_type": "FORM",
+                "version": "1.0.0",
+                "unique_template_id": "postcard_template"
+            },
+            "assets": {
+                "thumbnail": ".\/default-templates\/postcard_template\/assets\/thumbnail.jpeg",
+                "preview-thumbs": [
+                    ".\/default-templates\/postcard_template\/assets\/preview-thumbs\/preview1.jpg"
+                ]
+            }
+        },
+        "dashboard_screen_template": {
+            "screen_template": ".\/default-templates\/dashboard_screen_template\/screen_template_export.json",
+            "template_details": {
+                "name": "Dashboard Screen",
+                "description": "Default dashboard screen template",
+                "screen_type": "FORM",
+                "version": "1.0.0",
+                "unique_template_id": "dashboard_screen_template"
+            },
+            "assets": {
+                "thumbnail": ".\/default-templates\/dashboard_screen_template\/assets\/thumbnail.jpeg",
+                "preview-thumbs": [
+                    ".\/default-templates\/dashboard_screen_template\/assets\/preview-thumbs\/preview1.png"
+                ]
+            }
+        },
+        "approval_template": {
+            "screen_template": ".\/default-templates\/approval_template\/screen_template_export.json",
+            "template_details": {
+                "name": "Approval Template",
+                "description": "Default approval screen template",
+                "screen_type": "FORM",
+                "version": "1.0.0",
+                "unique_template_id": "approval_template"
+            },
+            "assets": {
+                "thumbnail": ".\/default-templates\/approval_template\/assets\/thumbnail.jpeg",
+                "preview-thumbs": [
+                    ".\/default-templates\/approval_template\/assets\/preview-thumbs\/preview1.jpg"
+                ]
+            }
+        },
+        "paper_template": {
+            "screen_template": ".\/default-templates\/paper_template\/screen_template_export.json",
+            "template_details": {
+                "name": "Paper Template",
+                "description": "Default paper screen template",
+                "screen_type": "FORM",
+                "version": "1.0.0",
+                "unique_template_id": "paper_template"
+            },
+            "assets": {
+                "thumbnail": ".\/default-templates\/paper_template\/assets\/thumbnail.jpeg",
+                "preview-thumbs": [
+                    ".\/default-templates\/paper_template\/assets\/preview-thumbs\/preview1.jpg"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<screen-template
+  name="Dashboard Screen"
+  description="Default dashboard screen template"
+  screen_type="FORM"
+  version="1.0.0"
+  unique_template_id="dashboard_screen_template"
+></screen-template>
